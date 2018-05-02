@@ -9,7 +9,7 @@ int main(){
     int d1,d2,m1,m2,y1,y2;  //n1 for withrawl date and n2 for submission date
     char con;
     do{
-        printf("Enter the date of issuance of book(dd mm yyyy) :- ");
+        printf("Enter the date of issuance of the book(dd mm yyyy) :- ");
         scanf("%d%d%d",&d1,&m1,&y1);
         printf("Enter the date of Submission of book(dd mm yyyy) :- ");
         scanf("%d%d%d",&d2,&m2,&y2);
